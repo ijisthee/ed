@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements Defense", "Elements Defense.csproj", "{EDE01E5F-398C-B490-FC9C-15F068EC3D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements Defense.Plugins", "Elements Defense.Plugins.csproj", "{470A9C71-E624-196B-C72C-BB1E851BD6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements Defense.Editor.Plugins", "Elements Defense.Editor.Plugins.csproj", "{60D205A8-A6DE-4366-8942-4ECA703D86EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE01E5F-398C-B490-FC9C-15F068EC3D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE01E5F-398C-B490-FC9C-15F068EC3D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE01E5F-398C-B490-FC9C-15F068EC3D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE01E5F-398C-B490-FC9C-15F068EC3D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470A9C71-E624-196B-C72C-BB1E851BD6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470A9C71-E624-196B-C72C-BB1E851BD6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470A9C71-E624-196B-C72C-BB1E851BD6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470A9C71-E624-196B-C72C-BB1E851BD6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D205A8-A6DE-4366-8942-4ECA703D86EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D205A8-A6DE-4366-8942-4ECA703D86EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D205A8-A6DE-4366-8942-4ECA703D86EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D205A8-A6DE-4366-8942-4ECA703D86EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
